@@ -1,0 +1,17 @@
+librosa
+resampy
+soundfile
+tqdm
+pandas
+pyarrow
+numpy
+scikit-learn
+torch
+torchaudio
+audiomentation
+wandb
+dali-dataset
+pytube
+g2p_en
+phonemizer
+prettytable
