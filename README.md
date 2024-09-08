@@ -10,6 +10,8 @@ To install the required python packages, run
 pip install -r requirements.txt
 ```
 
+Refer to [phonemizer](https://github.com/bootphon/phonemizer) on how to install the required background for IPA phonemes extraction.
+
 ## Data
 
 The [DALI](https://github.com/gabolsgabs/DALI) dataset is used for training.
